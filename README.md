@@ -80,6 +80,36 @@ Performance metrics used to assess model accuracy:
 * Root Mean Squared Error (RMSE): Penalizes large errors more than MAE.
 * Mean Absolute Percentage Error (MAPE): Evaluates the percentage error relative to actual values.
 
+## Model Selection & Performance
+
+### Weekly Forecasting: **LSTM**
+
+| Category         | MAPE (%) |
+|------------------|-----------|
+| Electronics      | 15.84     |
+| Furniture        | 13.84     |
+| Office Supplies  | 16.25     |
+
+### Monthly Forecasting: **Exponential Smoothing (ES)**
+
+| Category         | MAPE (%) |
+|------------------|-----------|
+| Electronics      | 11.28     |
+| Furniture        | 15.70     |
+| Office Supplies  | 11.73     |
+
+---
+
+## Model Comparison Summary
+
+| Model             | Weekly MAPE (%)        | Monthly MAPE (%)        | Verdict                       |
+|-------------------|------------------------|--------------------------|-------------------------------|
+| **LSTM**          | 13–16                  | —                        | Best for weekly forecasting   |
+| **Exponential Smoothing** | 15–17       | 11–15                   | Best for monthly forecasting  |
+| **Prophet**       | 17.82                  | 26.81                    | Underperforms for monthly     |
+| **ARIMA**         | 21.77–22.83            | —                        | Struggles with seasonality    |
+
+
 ## Visualization
 
 * Sales trend visualisation with line and bar charts.
