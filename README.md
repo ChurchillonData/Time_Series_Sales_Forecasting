@@ -1,6 +1,6 @@
 # Time Series Sales Forecasting for Tecos Group of Companies
 
-Time series sales forecasting project for Tecos Group of Companies. Utilising machine learning to analyse historical sales data, identify trends, and build predictive models for improved business decision-making.
+Time series sales forecasting project for BEK Inc. Utilising machine learning to analyse historical sales data, identify trends, and build predictive models for improved business decision-making.
 
 
 ![image](https://github.com/user-attachments/assets/9f485831-f0af-45c0-9d1e-a9401cb17cfc)
@@ -8,7 +8,7 @@ Time series sales forecasting project for Tecos Group of Companies. Utilising ma
 
 ## Overview
 
-This project focuses on developing an accurate time series sales forecasting model for Tecos Group of Companies, a multinational retailer. Leveraging machine learning techniques, the project aims to predict future sales trends based on historical data to assist in strategic decision-making, inventory management, and revenue optimization.
+This project focuses on developing an accurate time series sales forecasting model for BEK Inc, a multinational retailer. Leveraging machine learning techniques, the project aims to predict future sales trends based on historical data to assist in strategic decision-making, inventory management, and revenue optimization.
 
 ## Project Objectives
 
@@ -177,19 +177,6 @@ MAPE (Mean Absolute Percentage Error) was chosen as the primary evaluation metri
 * Deployment of models via cloud platforms (AWS, Azure).
 * Development of an automated retraining pipeline.
 
-## Contribution Guidelines
 
-Contributions are welcome! Please follow these steps:
 
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes with meaningful messages.
-4. Submit a pull request for review.
-
-## Contact
-
-For further inquiries or collaboration, please reach out via:
-
-* Email: boakyemmanuel1@outlook.com
-* LinkedIn: www.linkedin.com/in/boakye-emmanuel-gh
 
