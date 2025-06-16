@@ -20,7 +20,7 @@ This project focuses on developing an accurate time series sales forecasting mod
 
 * **Model Evaluation and Optimization**: Compare multiple forecasting techniques to ensure the most accurate predictions.
 
- ![image](https://github.com/user-attachments/assets/3cf9f626-054a-47c9-98a2-932a921d6353)
+ ![image](https://preview.redd.it/zfe3y4gm9gw81.png?width=1280&format=png&auto=webp&s=df1c44d0ea1c70a1bd0bf283cddb63600774e43b)
 
 
 ## Business Problem
