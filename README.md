@@ -1,4 +1,4 @@
-# Time Series Sales Forecasting for Tecos Group of Companies
+# Time Series Sales Forecasting for BEK Inc
 
 Time series sales forecasting project for BEK Inc. Utilising machine learning to analyse historical sales data, identify trends, and build predictive models for improved business decision-making.
 
