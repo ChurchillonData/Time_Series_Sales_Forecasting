@@ -24,7 +24,7 @@ This project focuses on developing an accurate time series sales forecasting mod
 
 
 ## Business Problem
-Tecos Group of Companies faces challenges in predicting sales trends, resulting in inventory inefficiencies and missed revenue opportunities. The goal of this project is to provide accurate forecasts that support business growth by implementing reliable forecasting models that can aid the company in improving:
+BEK Inc. faces challenges in predicting sales trends, resulting in inventory inefficiencies and missed revenue opportunities. The goal of this project is to provide accurate forecasts that support business growth by implementing reliable forecasting models that can aid the company in improving:
 
 * Demand planning and inventory management.
 * Revenue growth through accurate forecasting.
